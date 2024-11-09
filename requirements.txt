@@ -1,0 +1,6 @@
+# Required
+openai-whisper
+pyinstaller
+# Optional
+ffmpeg-python
+setuptools-rust
